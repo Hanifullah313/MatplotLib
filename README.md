@@ -1,35 +1,46 @@
-# 📊 Matplotlib Complete Guide
+# 📊 Matplotlib Complete Guide + Netflix Data Capstone Project
 
 Welcome to the **Matplotlib Complete Guide** repository!  
-This repo is your one-stop resource to learn **Matplotlib** from basics to advanced concepts with clear examples, code snippets, and visualizations.
+This repo contains everything you need to master **Matplotlib** — from basic charts to advanced customizations — plus a **real-world capstone project** analyzing Netflix data to create stunning and insightful visualizations.
 
 ---
 
 ## 🚀 Features
-- ✅ **Covers All Topics** – From plotting basics to advanced customization
-- ✅ Step-by-step explanations
-- ✅ Well-structured Jupyter Notebooks
+- ✅ **Covers All Matplotlib Topics** – From plotting basics to advanced concepts
+- ✅ Real-world **Netflix Dataset Analysis**
+- ✅ Step-by-step explanations & clean code
+- ✅ Jupyter Notebooks with outputs
 - ✅ Example datasets included
-- ✅ Beautiful and clear charts
+- ✅ Professional & aesthetic visualizations
 
 ---
 
 ## 📂 Topics Covered
-1. **Introduction to Matplotlib**
-2. **Basic Plots** – Line, Bar, Scatter, Pie
-3. **Customization** – Titles, Labels, Legends, Colors
-4. **Multiple Plots** – Subplots and Layouts
-5. **Styling and Themes**
-6. **Annotations and Text**
-7. **3D Plots**
-8. **Working with Dates and Times**
-9. **Saving and Exporting Figures**
-10. **Interactive Plots**
+### **1. Matplotlib Core Concepts**
+1. Introduction to Matplotlib
+2. Basic Plots – Line, Bar, Scatter, Pie
+3. Customization – Titles, Labels, Legends, Colors
+4. Multiple Plots – Subplots and Layouts
+5. Styling and Themes
+6. Annotations and Text
+7. 3D Plots
+8. Working with Dates and Times
+9. Saving and Exporting Figures
+10. Interactive Plots
+
+### **2. Capstone Project – Netflix Data Analysis**
+In the **Capstone Project**, you’ll find:
+- 📥 Loading and Cleaning Netflix dataset  
+- 📊 Genre popularity trends over time  
+- 📅 Release patterns by month and year  
+- 🌍 Country-based content distribution  
+- 🎭 Visualization of top genres, ratings, and durations  
+- 🎨 Custom color palettes and styling for better storytelling  
 
 ---
 
 ## 🖼 Example Output
-Here’s a sample visualization created in this repo:
+Here’s a sample chart created in this repo:
 
 ```python
 import matplotlib.pyplot as plt
